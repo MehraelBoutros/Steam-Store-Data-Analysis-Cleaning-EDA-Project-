@@ -5,7 +5,7 @@ This project focuses on performing full data cleaning and exploratory data analy
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Clean and preprocess raw dataset
 - Handle missing values and outliers
 - Analyze player behavior (playtime, ratings)
@@ -14,7 +14,7 @@ This project focuses on performing full data cleaning and exploratory data analy
 
 ---
 
-## 🧹 Data Cleaning Steps
+##  Data Cleaning Steps
 - Removed duplicates
 - Handled missing values
 - Converted data types
@@ -24,7 +24,7 @@ This project focuses on performing full data cleaning and exploratory data analy
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 - Distribution analysis of:
   - Positive ratings
   - Negative ratings
@@ -37,7 +37,7 @@ This project focuses on performing full data cleaning and exploratory data analy
 
 ---
 
-## 🛠️ Tools & Libraries
+##  Tools & Libraries
 - Python
 - Pandas
 - NumPy
@@ -46,11 +46,14 @@ This project focuses on performing full data cleaning and exploratory data analy
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 - Games with higher playtime tend to have more positive engagement
 - Some games have extreme outliers in playtime
 - Strong relationship between positive and total ratings
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
+├── steam_store_analysis.ipynb   # Main analysis notebook
+├── README.md                   # Documentation
+└── data/                       # dataset files
